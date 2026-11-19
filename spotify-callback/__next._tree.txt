@@ -1,0 +1,4 @@
+:HL["/SquidyMix/_next/static/chunks/39uhqeyxxofp_.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"spotify-callback","h":96,"c":"$Q2"}]]
+0:{"b":"r-NXmNV_Dl_P-8gmn1mcN","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

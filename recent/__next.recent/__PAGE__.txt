@@ -1,0 +1,68 @@
+1:"$Sreact.fragment"
+2:"/SquidyMix/_next/static/chunks/06dcsitg21-pc.js"
+3:"/SquidyMix/_next/static/chunks/2wn34x6rts0hw.js"
+4:"/SquidyMix/_next/static/chunks/0b9zzuoe6kavw.js"
+5:"/SquidyMix/_next/static/chunks/2qr0m2s5mgg8d.js"
+6:"/SquidyMix/_next/static/chunks/234vb0huvejop.js"
+7:"/SquidyMix/_next/static/chunks/1ajsv_yh73q90.js"
+8:I[10400,["$2","$3","$4","$5","$6","$7"],"AppShell"]
+9:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+a:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+11:"/SquidyMix/_next/static/chunks/2k__kkoaio2m-.js"
+12:I[31132,["$2","$3","$4","$5","$6","$7","$11"],"LibraryView"]
+13:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[97367,["$2","$3","$4","$5","$6","$7"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$2","$3","$4","$5","$6","$7"],"$19"]
+:HL["/SquidyMix/_next/static/chunks/39uhqeyxxofp_.css","style"]
+c:X
+f:X
+f:C
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L12",null,{"initialTab":"playlists","title":"Недавно добавленные","showTabs":false,"recentFirst":true}],[["$","script","script-0",{"src":"/SquidyMix/_next/static/chunks/2k__kkoaio2m-.js","async":true}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$c"}}]]
+d:[["children",{"s":"recent","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@e","v":"$f","s":"$c"},"c":"$Q10"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/SquidyMix/_next/static/chunks/39uhqeyxxofp_.css","precedence":"next"}],["$","script","script-0",{"src":"/SquidyMix/_next/static/chunks/06dcsitg21-pc.js","async":true}],["$","script","script-1",{"src":"/SquidyMix/_next/static/chunks/2wn34x6rts0hw.js","async":true}],["$","script","script-2",{"src":"/SquidyMix/_next/static/chunks/0b9zzuoe6kavw.js","async":true}],["$","script","script-3",{"src":"/SquidyMix/_next/static/chunks/2qr0m2s5mgg8d.js","async":true}],["$","script","script-4",{"src":"/SquidyMix/_next/static/chunks/234vb0huvejop.js","async":true}],["$","script","script-5",{"src":"/SquidyMix/_next/static/chunks/1ajsv_yh73q90.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{var s=JSON.parse(localStorage.getItem('mt:settings')||'{}');var t=s.theme||'auto';var d=t==='dark'||(t==='auto'&&matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d)}catch(e){}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebApplication\",\"name\":\"SquidyMix\",\"url\":\"https://blindsquidheh.github.io/SquidyMix/\",\"description\":\"Бесплатно перемешивайте несколько плейлистов YouTube, YouTube Music и Spotify в одну случайную очередь без повторов. Без регистрации и рекламы.\",\"applicationCategory\":\"MultimediaApplication\",\"operatingSystem\":\"Any (web browser)\",\"inLanguage\":[\"ru\",\"en\",\"uk\",\"es\",\"de\"],\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"},\"author\":{\"@type\":\"Person\",\"name\":\"BlindSquidHeh\",\"url\":\"https://github.com/BlindSquidHeh\"},\"featureList\":[\"Shuffle several YouTube playlists into one random queue\",\"Mix YouTube and Spotify tracks\",\"No repeats until the cycle ends\",\"Free, no ads, no sign-up\"]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"SquidyMix\",\"alternateName\":[\"Squidy Mix\",\"SquidyMix - YouTube & Spotify playlist shuffler\"],\"url\":\"https://blindsquidheh.github.io/\"}"}}]]}],["$","body",null,{"children":["$","$L8",null,{"children":["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#131313"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Недавно добавленные - SquidyMix"}],["$","meta","1",{"name":"description","content":"Бесплатно перемешивайте несколько плейлистов YouTube, YouTube Music и Spotify в одну случайную очередь без повторов. Без регистрации и рекламы."}],"$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b"]}]}],null]}],null]}],"p":"$@3c","v":null,"s":"$c"}},"a":"$@3d","u":"$@3e","b":"r-NXmNV_Dl_P-8gmn1mcN"}
+3f:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+15:null
+1b:["$","meta","2",{"name":"application-name","content":"SquidyMix"}]
+1c:["$","link","3",{"rel":"author","href":"https://github.com/BlindSquidHeh"}]
+1d:["$","meta","4",{"name":"author","content":"BlindSquidHeh"}]
+1e:["$","link","5",{"rel":"manifest","href":"/SquidyMix/manifest.webmanifest"}]
+1f:["$","meta","6",{"name":"keywords","content":"перемешать плейлисты YouTube,объединить плейлисты YouTube,перемешать несколько плейлистов,случайный плейлист YouTube,YouTube Music shuffle,Spotify и YouTube в одном плейлисте,shuffle multiple YouTube playlists,combine YouTube playlists,merge Spotify and YouTube playlists,random playlist mixer,SquidyMix"}]
+20:["$","meta","7",{"name":"creator","content":"BlindSquidHeh"}]
+21:["$","meta","8",{"name":"robots","content":"noindex, follow"}]
+22:["$","link","9",{"rel":"canonical","href":"https://blindsquidheh.github.io/SquidyMix/"}]
+23:["$","meta","10",{"property":"og:title","content":"SquidyMix - перемешивай плейлисты YouTube"}]
+24:["$","meta","11",{"property":"og:description","content":"Бесплатно перемешивайте несколько плейлистов YouTube, YouTube Music и Spotify в одну случайную очередь без повторов. Без регистрации и рекламы."}]
+25:["$","meta","12",{"property":"og:url","content":"https://blindsquidheh.github.io/SquidyMix/"}]
+26:["$","meta","13",{"property":"og:site_name","content":"SquidyMix"}]
+27:["$","meta","14",{"property":"og:locale","content":"ru_RU"}]
+28:["$","meta","15",{"property":"og:image","content":"https://blindsquidheh.github.io/SquidyMix/opengraph-image.png?opengraph-image.2www1oy0hwd8f.png"}]
+29:["$","meta","16",{"property":"og:image:type","content":"image/png"}]
+2a:["$","meta","17",{"property":"og:image:width","content":"1200"}]
+2b:["$","meta","18",{"property":"og:image:height","content":"630"}]
+2c:["$","meta","19",{"property":"og:locale:alternate","content":"en_US"}]
+2d:["$","meta","20",{"property":"og:locale:alternate","content":"uk_UA"}]
+2e:["$","meta","21",{"property":"og:locale:alternate","content":"es_ES"}]
+2f:["$","meta","22",{"property":"og:locale:alternate","content":"de_DE"}]
+30:["$","meta","23",{"property":"og:type","content":"website"}]
+31:["$","meta","24",{"name":"twitter:card","content":"summary_large_image"}]
+32:["$","meta","25",{"name":"twitter:title","content":"SquidyMix - перемешивай плейлисты YouTube"}]
+33:["$","meta","26",{"name":"twitter:description","content":"Бесплатно перемешивайте несколько плейлистов YouTube, YouTube Music и Spotify в одну случайную очередь без повторов. Без регистрации и рекламы."}]
+34:["$","meta","27",{"name":"twitter:image","content":"https://blindsquidheh.github.io/SquidyMix/twitter-image.png?twitter-image.2www1oy0hwd8f.png"}]
+35:["$","meta","28",{"name":"twitter:image:type","content":"image/png"}]
+36:["$","meta","29",{"name":"twitter:image:width","content":"1200"}]
+37:["$","meta","30",{"name":"twitter:image:height","content":"630"}]
+38:["$","link","31",{"rel":"icon","href":"/SquidyMix/favicon.ico?favicon.0i9j-bs__wbgr.ico","sizes":"48x48","type":"image/x-icon"}]
+39:["$","link","32",{"rel":"icon","href":"/SquidyMix/icon.svg?icon.1ctkv39nmf-ue.svg","sizes":"any","type":"image/svg+xml"}]
+3a:["$","link","33",{"rel":"apple-touch-icon","href":"/SquidyMix/apple-icon.png?apple-icon.24leo-c8y4vnd.png","sizes":"180x180","type":"image/png"}]
+3b:["$","$L3f","34",{}]
+c:300
+3e:true
+c:C
+3d:0
+e:"$undefined"
+b:"$undefined"
+3c:"$undefined"
+16:"$undefined"
